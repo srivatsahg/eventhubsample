@@ -1,0 +1,11 @@
+C:\Official\VSReferences\Azure\AzureEventHub\CoffeeMachineSimulator.Receiver.Direct\CoffeeMachineSimulator.Receiver.Direct\bin\Debug\netcoreapp2.0\CoffeeMachineSimulator.Receiver.Direct.deps.json
+C:\Official\VSReferences\Azure\AzureEventHub\CoffeeMachineSimulator.Receiver.Direct\CoffeeMachineSimulator.Receiver.Direct\bin\Debug\netcoreapp2.0\CoffeeMachineSimulator.Receiver.Direct.runtimeconfig.json
+C:\Official\VSReferences\Azure\AzureEventHub\CoffeeMachineSimulator.Receiver.Direct\CoffeeMachineSimulator.Receiver.Direct\bin\Debug\netcoreapp2.0\CoffeeMachineSimulator.Receiver.Direct.runtimeconfig.dev.json
+C:\Official\VSReferences\Azure\AzureEventHub\CoffeeMachineSimulator.Receiver.Direct\CoffeeMachineSimulator.Receiver.Direct\bin\Debug\netcoreapp2.0\CoffeeMachineSimulator.Receiver.Direct.dll
+C:\Official\VSReferences\Azure\AzureEventHub\CoffeeMachineSimulator.Receiver.Direct\CoffeeMachineSimulator.Receiver.Direct\obj\Debug\netcoreapp2.0\CoffeeMachineSimulator.Receiver.Direct.csprojResolveAssemblyReference.cache
+C:\Official\VSReferences\Azure\AzureEventHub\CoffeeMachineSimulator.Receiver.Direct\CoffeeMachineSimulator.Receiver.Direct\obj\Debug\netcoreapp2.0\CoffeeMachineSimulator.Receiver.Direct.csproj.CoreCompileInputs.cache
+C:\Official\VSReferences\Azure\AzureEventHub\CoffeeMachineSimulator.Receiver.Direct\CoffeeMachineSimulator.Receiver.Direct\obj\Debug\netcoreapp2.0\CoffeeMachineSimulator.Receiver.Direct.AssemblyInfoInputs.cache
+C:\Official\VSReferences\Azure\AzureEventHub\CoffeeMachineSimulator.Receiver.Direct\CoffeeMachineSimulator.Receiver.Direct\obj\Debug\netcoreapp2.0\CoffeeMachineSimulator.Receiver.Direct.AssemblyInfo.cs
+C:\Official\VSReferences\Azure\AzureEventHub\CoffeeMachineSimulator.Receiver.Direct\CoffeeMachineSimulator.Receiver.Direct\bin\Debug\netcoreapp2.0\CoffeeMachineSimulator.Receiver.Direct.pdb
+C:\Official\VSReferences\Azure\AzureEventHub\CoffeeMachineSimulator.Receiver.Direct\CoffeeMachineSimulator.Receiver.Direct\obj\Debug\netcoreapp2.0\CoffeeMachineSimulator.Receiver.Direct.dll
+C:\Official\VSReferences\Azure\AzureEventHub\CoffeeMachineSimulator.Receiver.Direct\CoffeeMachineSimulator.Receiver.Direct\obj\Debug\netcoreapp2.0\CoffeeMachineSimulator.Receiver.Direct.pdb

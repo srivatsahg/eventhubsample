@@ -1,0 +1,9 @@
+C:\Official\VSReferences\Azure\AzureEventHub\CoffeeMachineSimulator.EventHub.Sender\bin\Debug\netstandard2.0\CoffeeMachineSimulator.EventHub.Sender.deps.json
+C:\Official\VSReferences\Azure\AzureEventHub\CoffeeMachineSimulator.EventHub.Sender\bin\Debug\netstandard2.0\CoffeeMachineSimulator.EventHub.Sender.dll
+C:\Official\VSReferences\Azure\AzureEventHub\CoffeeMachineSimulator.EventHub.Sender\bin\Debug\netstandard2.0\CoffeeMachineSimulator.EventHub.Sender.pdb
+C:\Official\VSReferences\Azure\AzureEventHub\CoffeeMachineSimulator.EventHub.Sender\obj\Debug\netstandard2.0\CoffeeMachineSimulator.EventHub.Sender.csproj.CoreCompileInputs.cache
+C:\Official\VSReferences\Azure\AzureEventHub\CoffeeMachineSimulator.EventHub.Sender\obj\Debug\netstandard2.0\CoffeeMachineSimulator.EventHub.Sender.AssemblyInfoInputs.cache
+C:\Official\VSReferences\Azure\AzureEventHub\CoffeeMachineSimulator.EventHub.Sender\obj\Debug\netstandard2.0\CoffeeMachineSimulator.EventHub.Sender.AssemblyInfo.cs
+C:\Official\VSReferences\Azure\AzureEventHub\CoffeeMachineSimulator.EventHub.Sender\obj\Debug\netstandard2.0\CoffeeMachineSimulator.EventHub.Sender.dll
+C:\Official\VSReferences\Azure\AzureEventHub\CoffeeMachineSimulator.EventHub.Sender\obj\Debug\netstandard2.0\CoffeeMachineSimulator.EventHub.Sender.pdb
+C:\Official\VSReferences\Azure\AzureEventHub\CoffeeMachineSimulator.EventHub.Sender\obj\Debug\netstandard2.0\CoffeeMachineSimulator.EventHub.Sender.csprojResolveAssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMachineSimulator.Receiver.Direct", "CoffeeMachineSimulator.Receiver.Direct\CoffeeMachineSimulator.Receiver.Direct.csproj", "{B3E4EF6B-DD31-485A-91BD-7108757D1DF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3E4EF6B-DD31-485A-91BD-7108757D1DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E4EF6B-DD31-485A-91BD-7108757D1DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E4EF6B-DD31-485A-91BD-7108757D1DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E4EF6B-DD31-485A-91BD-7108757D1DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {695C293E-C801-49F1-8A8F-EF6095C3E301}
+	EndGlobalSection
+EndGlobal
